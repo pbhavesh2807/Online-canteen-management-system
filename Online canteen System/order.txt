@@ -1,0 +1,11 @@
+ITEM                                      PRICE
+1.BURGER                                  RS 60       PRICE IS RS 50 FOR REGISTERED USER
+2.PIZZA                                   RS 90       PRICE IS RS 80 FOR REGISTERED USER
+3.TEA                                     RS 25       PRICE IS RS 15 FOR REGISTERED USER
+4.COFEE                                   RS 30       PRICE IS RS 20 FOR REGISTERED USER
+5.SANDWICH                                RS 60       PRICE IS RS 45 FOR REGISTERED USER
+6.CHIPS                                   RS 20       PRICE IS RS 10 FOR REGISTERED USER
+7.NOODLES                                 RS 75       PRICE IS RS 60 FOR REGISTERED USER
+8.FRENCH FRIES                            RS 100      PRICE IS RS 80 FOR REGISTERED USER
+9.MANCHURIAN                              RS 90       PRICE IS RS 75 FOR REGISTERED USER
+10.GARLIC BREAD                           RS 70       PRICE IS RS 50 FOR REGISTERED USER
